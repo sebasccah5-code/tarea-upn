@@ -1,0 +1,15 @@
+C:\Users\ccahu\OneDrive\Desktop\Tareas upn\tarea-upn\bin\Debug\net10.0\tarea-upn.exe
+C:\Users\ccahu\OneDrive\Desktop\Tareas upn\tarea-upn\bin\Debug\net10.0\tarea-upn.deps.json
+C:\Users\ccahu\OneDrive\Desktop\Tareas upn\tarea-upn\bin\Debug\net10.0\tarea-upn.runtimeconfig.json
+C:\Users\ccahu\OneDrive\Desktop\Tareas upn\tarea-upn\bin\Debug\net10.0\tarea-upn.dll
+C:\Users\ccahu\OneDrive\Desktop\Tareas upn\tarea-upn\bin\Debug\net10.0\tarea-upn.pdb
+C:\Users\ccahu\OneDrive\Desktop\Tareas upn\tarea-upn\obj\Debug\net10.0\tarea-upn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccahu\OneDrive\Desktop\Tareas upn\tarea-upn\obj\Debug\net10.0\tarea-upn.AssemblyInfoInputs.cache
+C:\Users\ccahu\OneDrive\Desktop\Tareas upn\tarea-upn\obj\Debug\net10.0\tarea-upn.AssemblyInfo.cs
+C:\Users\ccahu\OneDrive\Desktop\Tareas upn\tarea-upn\obj\Debug\net10.0\tarea-upn.csproj.CoreCompileInputs.cache
+C:\Users\ccahu\OneDrive\Desktop\Tareas upn\tarea-upn\obj\Debug\net10.0\tarea-upn.sourcelink.json
+C:\Users\ccahu\OneDrive\Desktop\Tareas upn\tarea-upn\obj\Debug\net10.0\tarea-upn.dll
+C:\Users\ccahu\OneDrive\Desktop\Tareas upn\tarea-upn\obj\Debug\net10.0\refint\tarea-upn.dll
+C:\Users\ccahu\OneDrive\Desktop\Tareas upn\tarea-upn\obj\Debug\net10.0\tarea-upn.pdb
+C:\Users\ccahu\OneDrive\Desktop\Tareas upn\tarea-upn\obj\Debug\net10.0\tarea-upn.genruntimeconfig.cache
+C:\Users\ccahu\OneDrive\Desktop\Tareas upn\tarea-upn\obj\Debug\net10.0\ref\tarea-upn.dll

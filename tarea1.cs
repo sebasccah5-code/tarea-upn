@@ -26,5 +26,27 @@ class Program
     }
 }
 
-
-// Etapa 3.- operaciones con listas
+// Etapa 2.- USo de listas. rreglos bidimensionales (matriz 3x3)
+Console.WriteLine("2.- Uso de listas/arreglos bidimensionales (matriz 3x3)");
+int[,] miMatriz = new int[3, 3];
+int sumatotal = 0;
+Console.WriteLine("Ingrese los elementos para una matriz de 3x3:");
+for (int i = 0; i < 3; i++)
+{
+    for (int j = 0; j < 3; j++)
+    {
+        Console.Write($"Posicion [{i},{j}]: ");
+        miMatriz[i, j] = int.Parse(Console.ReadLine());
+    }
+}
+Console.WriteLine("Matriz ingresada:");
+for (int i = 0; i < 3; i++)
+{
+    for (int j = 0; j < 3; j++)
+    {
+        Console.Write(matriz¨[i, j] + "\t");
+        sumatotal += miMatriz[i, j];
+    }
+    Console.WriteLine();
+}
+Console.WriteLine("Suma total de todos los elementos de la matriz es: " + sumatotal);
